@@ -12,7 +12,7 @@ QWEN_DASHSCOPE = "dashscope"  # 通义新版sdk和api key
 
 
 GEMINI = "gemini"  # gemini-1.0-pro
-ZHIPU_AI = "glm-4"
+ZHIPU_AI = "zhipu-agent"
 MOONSHOT = "moonshot"
 MiniMax = "minimax"
 
